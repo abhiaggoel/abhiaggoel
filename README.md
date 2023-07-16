@@ -19,7 +19,7 @@
 ## 🌐 Connect with me : 
 
 <a href="https://instagram.com/abhi_ag_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_ag_goel" height="30" width="40" /></a>
-<a href="https://twitter.com/abhinavaggoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavaggoel" height="30" width="40" /></a>
+<a href="https://twitter.com/abhiaggoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavaggoel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinavgoel1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhinav Goel" height="30" width="40" /></a>
 <!--<a href="mailto:abhinav15122001@gmail.com"><img align="center" src="https://raw.githubusercontent.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" height="30" width="40" alt="mail" /></a>-->
 
