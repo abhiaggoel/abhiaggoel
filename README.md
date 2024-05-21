@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JAVA, Python, Flutter**
 
-- Know more about my experiences [Linkedin](https://www.linkedin.com/in/) <a href="https://drive.google.com/drive/u/0/folders/1tCH2EDOva0B390-aAV0FE5oQQK-2oNpE" target="blank">📄</a>
+- Know more about my experiences [Linkedin](https://www.linkedin.com/in/abhiaggoel) <a href="https://drive.google.com/drive/u/0/folders/1tCH2EDOva0B390-aAV0FE5oQQK-2oNpE" target="blank">📄</a>
 
 
 <h3 align="left">🌐 Connect with me :</h3>
